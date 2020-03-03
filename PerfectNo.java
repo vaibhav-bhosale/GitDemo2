@@ -1,5 +1,6 @@
 public class PerfectNo
 {
+   //comments
    public static void main(String args[])
     {
      int n=28,sum=0;
